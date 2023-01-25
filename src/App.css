@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(206, 168, 97);
+}
+form{
+  background:linear-gradient(to right, rgb(53, 53, 192),yellow,purple, red);
+  width: 35%;
+  border-radius: 20px;
+  padding: 20px;
+}
+.secdiv{
+  background-color: rgb(62, 205, 176);
+}
